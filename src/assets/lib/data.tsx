@@ -36,6 +36,7 @@ import aboutmeicon from "../../assets/icons/aboutmeicon.png"
 import hobbiesicon from "../../assets/icons/hobbiesicon.png"
 import blogsicon from "../../assets/icons/blogsicon.png"
 import hemangicon2 from "../../assets/img/Hemang2.jpg"
+import zemprofiles from "../../assets/icons/zemprofiles.png"
 //  import profilepicture from "../../assets/img/Zemerik.png"
 
 
@@ -105,23 +106,23 @@ export const projectsData = [
       },
     },  
   {
-    title: "Custom Discord Presence",
+    title: "ZemProfiles",
     description:
       "Ein Repository, in dem Benutzer ihre eigene Discord-Präsenz haben können",
     description_EN:
-      "A repository for users to have their own discord presence",
+      "Discover & Conect with Developers",
       technologies: [
         { name: "JavaScript", icon: javascripticon },
-        { name: "Axios", icon: axiosicon },
-        { name: "Node.js", icon: nodejsicon },
-        { name: "Discord.js", icon: discordjsicon},
+        { name: "Typescript", icon: typescripticon },
+        { name: "NodeJS", icon: nodejsicon },
+        { name: "ReactJS", icon: reacticon},
         { name: "Ascii", icon: asciiicon},
         { name: "Express", icon: expressicon2}
       ],
-      image: cdbicon,
-      deploymenturl: "https://github.com/Zemerik/Custom-Discord-Presence",
+      image: zemprofiles,
+      deploymenturl: "https://zemprofiles.vercel.app",
       githuburl:
-        "https://github.com/Zemerik/Custom-Discord-Presence",
+        "https://github.com/Zemerik/zemprofiles",
       githubicon: FiGithub,
       deploymenticon: FiLink,
       colors: {
