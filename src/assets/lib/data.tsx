@@ -18,14 +18,12 @@ import { FiGithub, FiLink, FiLinkedin, FiMail } from "react-icons/fi";
 import Imprint from "../../components/Imprint";
 import Privacy from "../../components/Privacy";
 import sportsstadiumicon from "../../assets/icons/sportsstadium.jpeg";
-import hemangicon from "../../assets/icons/hemang.jpeg";
 import discordapiicon from "../../assets/icons/discordapiicon.png";
 import notionapiicon from "../../assets/icons/notionapiicon.jpg"
 import slackapiicon from "../../assets/icons/slackapiicon.png"
 import cpulsicon from "../../assets/icons/c++icon.png"
 import pythonicon from "../../assets/icons/pythonicon.png"
 import rubyicon from "../../assets/icons/rubyicon.png"
-import cdbicon from "../../assets/icons/cdp.png"
 import discordjsicon from "../../assets/icons/discordjsicon.png"
 import asciiicon from "../../assets/icons/asciiiicon.png"
 import expressicon2 from "../../assets/icons/expressicon.png"
