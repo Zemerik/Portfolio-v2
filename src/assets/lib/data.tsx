@@ -300,8 +300,8 @@ export const FooterLinks = [
 ] as const;
 
 export const sideBarRightMail = {
-  link: "mailto:myemail@com",
-  text: "myemail@com",
+  link: "mailto:zemeriky@gmail.com",
+  text: "ZemerikY@gmail.com",
 } as const;
 
 export const sideBarLeftSocials = [
