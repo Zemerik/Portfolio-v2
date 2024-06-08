@@ -108,7 +108,7 @@ export const projectsData = [
   {
     title: "ZemProfiles",
     description:
-      "Ein Repository, in dem Benutzer ihre eigene Discord-Präsenz haben können",
+      "Entdecken und vernetzen Sie sich mit Entwicklern",
     description_EN:
       "Discover & Conect with Developers",
       technologies: [
