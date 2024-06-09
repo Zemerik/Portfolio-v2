@@ -21,17 +21,32 @@ View my Website here - https://zemerik.vercel.app
 
 ## FEATURES:
 
-🎩 Responsive Navbar with Icons and hover effects
+<table align = "center">
+  <tr>
+    <td>
+      🎩 Responsive Navbar with Icons and hover effects
+      <br>
+      <br>
+      🤯 Option to Switch between German and English Language
+      <br>
+      <br>
+      ⚡ Tailwind Effects for Quotes and other text / animations
+      <br>
+      <br>
+      🏆 Dragable and Self - Updating Project Cards
+      <br>
+      <br>
+      📝 Code Snippets Outlining Achievements and Milestones
+      <br>
+      <br>
+      ✈️ Mailing / Messaging Option
+    </td>
+    <td>
 
-🤯 Option to Switch between German and English Language
-
-⚡ Tailwind Effects for Quotes and other text / animations
-
-🏆 Dragable and Self - Updating Project Cards
-
-📝 Code Snippets Outlining Achievements and Milestones
-
-✈️ Mailing / Messaging Option
+  <img src = "src/assets/github/screenshot_phone.png" style = "height: 400px; width: 250px">
+    </td>
+  </tr>
+</table>
 
 ## USAGE:
 
