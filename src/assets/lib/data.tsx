@@ -35,6 +35,7 @@ import hobbiesicon from "../../assets/icons/hobbiesicon.png"
 import blogsicon from "../../assets/icons/blogsicon.png"
 import hemangicon2 from "../../assets/img/Hemang2.jpg"
 import zemprofiles from "../../assets/icons/zemprofiles.png"
+import youtubeicon from "../../assets/icons/youtubeicon.png"
 //  import profilepicture from "../../assets/img/Zemerik.png"
 
 
@@ -351,7 +352,7 @@ export const aboutMeData = {
       icon: hobbiesicon,
     },
     {
-      title: "100 Follower auf X (Twitter)",
+      title: "300 Follower auf X (Twitter)",
       description:
         "Es ist ein bedeutender Meilenstein für mich und ich bin allen dankbar, die mich unterstützt und mitgemacht haben.",
       icon: medalicon,
@@ -359,8 +360,14 @@ export const aboutMeData = {
     {
       title: "Blogs",
       description:
-      "Ich schreibe häufig Blogs auf dev.to und teile meine Gedanken und Erfahrungen mit meinen Lesern. Durch das Erstellen von Inhalten kann ich mich kreativ ausdrücken und mit einem breiteren Publikum interagieren.",
+      "Ich schreibe häufig Blogs auf dev.to und hashnode und teile meine Gedanken und Erfahrungen mit meinen Lesern. Ich habe vor kurzem 1000 Follower auf Dev! Besuchen Sie meine Blogging-Seite: https://zemerik.hashnode.dev/",
       icon : blogsicon,
+    },
+    {
+      title: "Youtube Videos",
+      description:
+      "Ich dokumentiere meine Programmierreise und meine Meilensteine/Erfolge öffentlich auf meinem YouTube-Kanal. Sehen Sie sich mein YouTube hier an - https://www.youtube.com/channel/UCLJY3Fa0xheb_SNSuPkbdZw",
+      icon: youtubeicon
     }
   ],
   paragraphs_EN: [
@@ -377,7 +384,7 @@ export const aboutMeData = {
       icon: hobbiesicon,
     },
     {
-      title: "100 Followers on X (Twitter)",
+      title: "300 Followers on X (Twitter)",
       description:
       "It's a significant milestone for me, and I'm grateful for everyone who has supported and followed along.",
       icon: medalicon,
@@ -385,8 +392,14 @@ export const aboutMeData = {
     {
       title: "Blogs",
       description:
-      "I frequently write blogs on dev.to, sharing my thoughts and experiences with my readers. Crafting content allows me to express myself creatively and engage with a wider audience.",
+      "I frequently write blogs on dev.to and hashnode, sharing my thoughts and experiences with my readers. I recently crossed 1000 followers on Dev! Visit my Blogging page: https://zemerik.hashnode.dev/",
       icon : blogsicon,
+    }, 
+    {
+      title: "Youtube Videos",
+      descripition:
+      "I publically document my coding journey and my milestones / achievement on my youtube channel. View my youtube here - https://www.youtube.com/channel/UCLJY3Fa0xheb_SNSuPkbdZw",
+      icon: youtubeicon,
     }
   ],
 };
