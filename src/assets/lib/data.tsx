@@ -397,7 +397,7 @@ export const aboutMeData = {
     }, 
     {
       title: "Youtube Videos",
-      descripition:
+      description:
       "I publically document my coding journey and my milestones / achievement on my youtube channel. View my youtube here - https://www.youtube.com/channel/UCLJY3Fa0xheb_SNSuPkbdZw",
       icon: youtubeicon,
     }
