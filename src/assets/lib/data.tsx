@@ -374,7 +374,7 @@ export const aboutMeData = {
     {
       title: "About Me",
       description:
-        "As a 14-year-old high school student, I am driven by an unwavering passion for pursuing a career as a front-end software developer.",
+        "As a 15-year-old high school student, I am driven by an unwavering passion for pursuing a career as a front-end software developer.",
       icon: aboutmeicon,
     },
     {
