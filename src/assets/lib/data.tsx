@@ -28,7 +28,6 @@ import discordjsicon from "../../assets/icons/discordjsicon.png"
 import asciiicon from "../../assets/icons/asciiiicon.png"
 import expressicon2 from "../../assets/icons/expressicon.png"
 import jsonicon from "../../assets/icons/jsonicon.png"
-import portfoliotemplateicon from "../../assets/icons/portfoliotemplateicon.png"
 import medalicon from "../../assets/icons/medalicon.png"
 import aboutmeicon from "../../assets/icons/aboutmeicon.png"
 import hobbiesicon from "../../assets/icons/hobbiesicon.png"
@@ -36,6 +35,7 @@ import blogsicon from "../../assets/icons/blogsicon.png"
 import hemangicon2 from "../../assets/img/Hemang2.jpg"
 import zemprofiles from "../../assets/icons/zemprofiles.png"
 import youtubeicon from "../../assets/icons/youtubeicon.png"
+import zemshowcase from "../../assets/icons/zemshowcase.png"
 //  import profilepicture from "../../assets/img/Zemerik.png"
 
 
@@ -132,19 +132,20 @@ export const projectsData = [
       },
     },
   {
-    title: "Portfolio Template",
+    title: "ZemShowcase",
     description:
-      "Die vorherige Version meines Portfolios wurde ausschließlich in HTML, CSS und Javascript erstellt",
+      "Vitrine und vernetzen Sie sich mit Entwicklern",
     description_EN:
-      "The previous version of my Portfolio made purely in HTML, CSS and Javascript",
+      "Showcase & Connect with Developers",
       technologies: [
         { name: "Html", icon: htmlicon },
         { name: "CSS", icon: cssicon },
         { name: "JavaScript", icon: javascripticon },
+        { name: "ReactJS", icon: reacticon},
       ],
-      image: portfoliotemplateicon,
-      deploymenturl: "https://zemerik.is-a.dev/Portfolio-Template",
-      githuburl: "https://github.com/Zemerik/Portfolio-Template",
+      image: zemshowcase,
+      deploymenturl: "https://zemshowcase.vercel.app",
+      githuburl: "https://github.com/Zemerik/ZemShowcase",
       githubicon: FiGithub,
       deploymenticon: FiLink,
       colors: {
