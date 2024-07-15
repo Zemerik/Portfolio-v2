@@ -1,7 +1,6 @@
-import htmlicon from "../../assets/icons/htmlicon.svg";
+import htmlicon from "../../assets/icons/htmlicon"
 import cssicon from "../../assets/icons/cssicon.svg";
 import javascripticon from "../../assets/icons/javascripticon.svg";
-import boostrapicon from "../../assets/icons/boostrapicon.svg"
 import typescripticon from "../../assets/icons/typescripticon.svg";
 import reacticon from "../../assets/icons/reacticon.svg";
 import nextjsicon from "../../assets/icons/nextjsicon.svg";
@@ -26,8 +25,6 @@ import pythonicon from "../../assets/icons/pythonicon.png"
 import rubyicon from "../../assets/icons/rubyicon.png"
 import discordjsicon from "../../assets/icons/discordjsicon.png"
 import asciiicon from "../../assets/icons/asciiiicon.png"
-import expressicon2 from "../../assets/icons/expressicon.png"
-import jsonicon from "../../assets/icons/jsonicon.png"
 import medalicon from "../../assets/icons/medalicon.png"
 import aboutmeicon from "../../assets/icons/aboutmeicon.png"
 import hobbiesicon from "../../assets/icons/hobbiesicon.png"
@@ -35,7 +32,9 @@ import blogsicon from "../../assets/icons/blogsicon.png"
 import hemangicon2 from "../../assets/img/Hemang2.jpg"
 import zemprofiles from "../../assets/icons/zemprofiles.png"
 import youtubeicon from "../../assets/icons/youtubeicon.png"
+import zempostsicon from "../../assets/icons/zemposts.png"
 import zemshowcase from "../../assets/icons/zemshowcase.png"
+import astroicon from "../../assets/icons/astroicon"
 //  import profilepicture from "../../assets/img/Zemerik.png"
 
 
@@ -74,27 +73,21 @@ export const headerIntroData = {
 
 export const projectsData = [
   {
-    title: "Sports Stadium",
+    title: "ZemPosts",
     description:
-      "Ein Allzweck-NodeJS-Discord-Bot, der mit MongoDB und der Discord-API mit einem Boostrap-Dashboard erstellt wurde",
+      "Posten und vernetzen Sie sich mit Entwicklern",
     description_EN:
-      "An all purpose NodeJS Discord bot built using MongoDB and Discord's API with a boostrap dashboard",
+      "Post & Connect with Developers",
     technologies: [
-      { name: "Html", icon: htmlicon },
-      { name: "CSS", icon: cssicon },
       { name: "JavaScript", icon: javascripticon },
-      { name: "Boostrap", icon: boostrapicon},        
-      { name: "MongoDB", icon: mongodbicon},
-      { name: "Axios", icon: axiosicon},
-      { name: "Discord.js", icon: discordjsicon},
-      { name: "Express", icon: expressicon2},
-      { name: "Node.js", icon: nodejsicon},
-      { name: "React", icon: reacticon},
-      { name: "JSON", icon: jsonicon}
+      { name: "TypeScript", icon: typescripticon},
+      { name: "NodeJS", icon: nodejsicon},
+      { name: "ReactJS", icon: reacticon},
+      { name: "Astro", icon: astroicon}
       ],
-      image: sportsstadiumicon,
-      deploymenturl: "https://zemerik.is-a.dev/Sports-Stadium",
-      githuburl: "https://github.com/Zemerik/Sports-Stadium",
+      image: zempostsicon,
+      deploymenturl: "https://zemposts.vercel.app",
+      githuburl: "https://github.com/Zemerik/ZemPosts",
       githubicon: FiGithub,
       deploymenticon: FiLink,
       colors: {
@@ -115,8 +108,6 @@ export const projectsData = [
         { name: "Typescript", icon: typescripticon },
         { name: "NodeJS", icon: nodejsicon },
         { name: "ReactJS", icon: reacticon},
-        { name: "Ascii", icon: asciiicon},
-        { name: "Express", icon: expressicon2}
       ],
       image: zemprofiles,
       deploymenturl: "https://zemprofiles.vercel.app",
