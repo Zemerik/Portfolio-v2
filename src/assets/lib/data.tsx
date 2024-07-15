@@ -1,5 +1,6 @@
-import htmlicon from "../../assets/icons/htmlicon";
+import htmlicon from "../../assets/icons/htmlicon.svg"
 import cssicon from "../../assets/icons/cssicon.svg";
+import discordapiicon from "../../assets/icons/discordapiicon.png"
 import javascripticon from "../../assets/icons/javascripticon.svg";
 import typescripticon from "../../assets/icons/typescripticon.svg";
 import reacticon from "../../assets/icons/reacticon.svg";
@@ -9,29 +10,30 @@ import tailwindcssicon from "../../assets/icons/tailwindicon.svg";
 import mongodbicon from "../../assets/icons/mongoicon.svg";
 import vuejsicon from "../../assets/icons/vueicon.svg";
 import expressicon from "../../assets/icons/expressicon.svg";
+import axiosicon from "../../assets/icons/axiosicon.svg";
 import nextjsiconwhite from "../../assets/icons/nextjsiconwhite.svg";
 import expressiconwhite from "../../assets/icons/expressiconwhite.svg";
 import { GoHome, GoPerson, GoMail, GoStack, GoProject } from "react-icons/go";
 import { FiGithub, FiLink, FiLinkedin, FiMail } from "react-icons/fi";
 import Imprint from "../../components/Imprint";
 import Privacy from "../../components/Privacy";
-import notionapiicon from "../../assets/icons/notionapiicon.jpg";
-import slackapiicon from "../../assets/icons/slackapiicon.png";
-import cpulsicon from "../../assets/icons/c++icon.png";
-import pythonicon from "../../assets/icons/pythonicon.png";
-import rubyicon from "../../assets/icons/rubyicon.png";
-import discordjsicon from "../../assets/icons/discordjsicon.png";
-import medalicon from "../../assets/icons/medalicon.png";
-import aboutmeicon from "../../assets/icons/aboutmeicon.png";
-import hobbiesicon from "../../assets/icons/hobbiesicon.png";
-import blogsicon from "../../assets/icons/blogsicon.png";
-import hemangicon2 from "../../assets/img/Hemang2.jpg";
-import zemprofiles from "../../assets/icons/zemprofiles.png";
-import youtubeicon from "../../assets/icons/youtubeicon.png";
-import zemshowcase from "../../assets/icons/zemshowcase.png";
-import zempostsicon from "../../assets/icons/zemposts.png";
-import astroicon from "../../assets/icons/astroicon";
-import boostrapicon from "../assets/icons/boostrapicon.svg";
+import sportsstadiumicon from "../../assets/icons/sportsstadium.jpeg";
+import notionapiicon from "../../assets/icons/notionapiicon.jpg"
+import slackapiicon from "../../assets/icons/slackapiicon.png"
+import cpulsicon from "../../assets/icons/c++icon.png"
+import pythonicon from "../../assets/icons/pythonicon.png"
+import rubyicon from "../../assets/icons/rubyicon.png"
+import asciiicon from "../../assets/icons/asciiiicon.png"
+import medalicon from "../../assets/icons/medalicon.png"
+import aboutmeicon from "../../assets/icons/aboutmeicon.png"
+import hobbiesicon from "../../assets/icons/hobbiesicon.png"
+import blogsicon from "../../assets/icons/blogsicon.png"
+import hemangicon2 from "../../assets/img/Hemang2.jpg"
+import zemprofiles from "../../assets/icons/zemprofiles.png"
+import youtubeicon from "../../assets/icons/youtubeicon.png"
+import zempostsicon from "../../assets/icons/zemposts.png"
+import zemshowcase from "../../assets/icons/zemshowcase.png"
+import astroicon from "../../assets/icons/astroicon.png"
 //  import profilepicture from "../../assets/img/Zemerik.png"
 
 
