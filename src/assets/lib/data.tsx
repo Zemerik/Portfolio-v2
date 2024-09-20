@@ -32,6 +32,7 @@ import youtubeicon from "../../assets/icons/youtubeicon.png"
 import zempostsicon from "../../assets/icons/zemposts.png"
 import zemshowcase from "../../assets/icons/zemshowcase.png"
 import astroicon from "../../assets/icons/astroicon.png"
+import zemdocs from "../../assets/icons/zemdocs.png"
 //  import profilepicture from "../../assets/img/Zemerik.png"
 
 
@@ -117,6 +118,31 @@ export const projectsData = [
         second: "secondary-btn",
         icon: "white",
         projectcolor: "#FFD5BD",
+      },
+    },
+    {
+      title: "ZemDocs",
+      description: 
+        "Ihr Leitfaden zum Meistern von Zem-Projekten",
+      description_EN:
+        "Your Guide to Mastering Zem Projects",
+      technologies: [
+        { name: "Astro", icon: astroicon},
+        { name: "Javascript", icon: javascripticon},
+        { name: "Typescript", icon: typescripticon},
+        { name: "ReactJS", icon: reacticon},
+        { name: "NodeJS", icon: nodejsicon},
+      ],
+      image: zemdocs,
+      deploymenturl: "https://zemdocs.vercel.app",
+      githuburl: "https://github.com/Zemerik/ZemDocs",
+      githubicon: FiGithub,
+      deploymenticon: FiLink,
+      colors: {
+        main: "main-btn",
+        second: "secondary-btn",
+        icon: "white",
+        projectcolor: "#E3964A",
       },
     },
   {

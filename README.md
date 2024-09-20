@@ -8,7 +8,7 @@
 
 ![Tools](https://skillicons.dev/icons?i=javascript,css,html,react,nodejs,tailwind,vscode,vercel,github&perline=25)
 
-![Screenshot](src/assets/github/screenshot.png)
+![Screenshot](public/assets/screenshot_laptop.png)
 
 </div>
 
@@ -43,7 +43,7 @@ View my Website here - https://zemerik.vercel.app
     </td>
     <td>
 
-  <img src = "src/assets/github/screenshot_phone.png" style = "height: 400px; width: 250px">
+  <img src = "public/assets/screenshot_phone.png" style = "height: 400px; width: 250px">
     </td>
   </tr>
 </table>

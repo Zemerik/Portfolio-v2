@@ -144,32 +144,6 @@ Wishing you stardust dreams,\n
 ${name}${lastUpdatedField === "name" ? (cursorBlink ? "|" : " ") : ""}
 \``;
 
-  //   const codeSnippet2 = `
-  // // 🚀 Initiating Quantum Email Transmission 🪐
-  // const launchEmail = async () => {
-  //   try {
-  //     const response = await fetch('https://alpaycelik.dev/send',{
-  //     method: 'POST',
-  //     headers: {'Content-Type': 'application/json'},
-  //     body: JSON.stringify({
-  //      sender,
-  //      recipient,
-  //      subject,
-  //      message
-  //     })
-  //    });
-
-  //    if (response.ok) {
-  //    console.log('🌌 Transmission successful!');
-  //    } else {
-  //    console.error('🌠 Cosmic glitch encountered...');
-  //    }
-  //   } catch (error) {
-  //   console.error('🌪 Quantum disturbance detected:', error);
-  //   }
-  // };
-  // // 🚀 Ready for Liftoff? 🛸
-  // launchEmail();`;
 
   return (
     <React.Fragment>

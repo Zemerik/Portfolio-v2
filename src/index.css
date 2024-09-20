@@ -29,7 +29,7 @@
   --lightblue: #9daaf2;
   --darkblue: #1a2238;
   --blackblue: #0c1220;
-  --orange: #ff6a3d;
+  --orange: #3d5aff;
   --box-shadow-color: inherit;
   --transparent: transparent;
 }
@@ -164,7 +164,7 @@ a {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: var(--orange);
+  background: var(--lightblue);
 }
 ::-webkit-scrollbar-thumb:hover {
   background: var(--lightblue);

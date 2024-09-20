@@ -15,6 +15,7 @@
     "@types/dotenv": "^8.2.0",
     "axios": "^1.5.1",
     "dotenv": "^16.3.1",
+    "finaleseite2": "file:",
     "framer-motion": "^10.16.4",
     "gsap": "^3.12.2",
     "prism-react-renderer": "^2.0.6",
