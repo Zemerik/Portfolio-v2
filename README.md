@@ -1,3 +1,9 @@
+<p align = "center">
+
+<img src = "public/assets/icon.png" style = "height:250px;width:250px">
+
+</p>
+
 <h1 align = "center">
 
   PORTFOLIO V2 - [Website](https://zemerik.vercel.app)
@@ -8,7 +14,7 @@
 
 ![Tools](https://skillicons.dev/icons?i=javascript,css,html,react,nodejs,tailwind,vscode,vercel,github&perline=25)
 
-![Screenshot](public/assets/screenshot_laptop.png)
+![Screenshot](public/github/screenshot_laptop.png)
 
 </div>
 
@@ -43,7 +49,7 @@ View my Website here - https://zemerik.vercel.app
     </td>
     <td>
 
-  <img src = "public/assets/screenshot_phone.png" style = "height: 400px; width: 250px">
+  <img src = "public/github/screenshot_phone.png" style = "height: 400px; width: 250px">
     </td>
   </tr>
 </table>
