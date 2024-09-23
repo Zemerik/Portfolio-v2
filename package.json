@@ -13,7 +13,7 @@
     "@emailjs/browser": "^3.11.0",
     "@motionone/utils": "^10.16.3",
     "@types/dotenv": "^8.2.0",
-    "axios": "^1.5.1",
+    "axios": "^1.7.4",
     "dotenv": "^16.3.1",
     "finaleseite2": "file:",
     "framer-motion": "^10.16.4",
@@ -44,6 +44,6 @@
     "rollup-plugin-gzip": "^3.1.0",
     "tailwindcss": "^3.3.3",
     "typescript": "^5.0.2",
-    "vite": "^4.4.5"
+    "vite": "^4.5.5"
   }
 }
