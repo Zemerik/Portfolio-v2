@@ -18,6 +18,8 @@
 
 </div>
 
+![Wakatime Stats](https://wakatime.com/badge/user/9860690e-8928-4746-844c-c2924f121f2d/project/5de3fb2c-df6d-40a8-95d9-15ac29c773f2.svg)
+
 ## ABOUT:
 
 
