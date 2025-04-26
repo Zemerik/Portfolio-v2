@@ -13,7 +13,7 @@
     "@emailjs/browser": "^3.11.0",
     "@motionone/utils": "^10.16.3",
     "@types/dotenv": "^8.2.0",
-    "axios": "^1.7.4",
+    "axios": "^1.8.2",
     "dotenv": "^16.3.1",
     "finaleseite2": "file:",
     "framer-motion": "^10.16.4",
