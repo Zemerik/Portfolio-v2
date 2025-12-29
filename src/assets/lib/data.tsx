@@ -26,7 +26,7 @@ import medalicon from "../../assets/icons/medalicon.png"
 import aboutmeicon from "../../assets/icons/aboutmeicon.png"
 import hobbiesicon from "../../assets/icons/hobbiesicon.png"
 import blogsicon from "../../assets/icons/blogsicon.png"
-import hemangicon2 from "../../assets/img/Hemang2.jpg"
+import icon from "../../assets/img/icon.png"
 import zemprofiles from "../../assets/icons/zemprofiles.png"
 import youtubeicon from "../../assets/icons/youtubeicon.png"
 import zempostsicon from "../../assets/icons/zemposts.png"
@@ -66,7 +66,7 @@ export const headerIntroData = {
       color: "secondary-btn",
     },
   ],
-  profilepicture: hemangicon2,
+  profilepicture: icon,
 } as const;
 
 export const projectsData = [
@@ -367,7 +367,7 @@ export const aboutMeData = {
       icon: hobbiesicon,
     },
     {
-      title: "300 Follower auf X (Twitter)",
+      title: "400 Follower auf X (Twitter)",
       description:
         "Es ist ein bedeutender Meilenstein für mich und ich bin allen dankbar, die mich unterstützt und mitgemacht haben.",
       icon: medalicon,
@@ -389,32 +389,26 @@ export const aboutMeData = {
     {
       title: "About Me",
       description:
-        "As a 15-year-old high school student, I am driven by an unwavering passion for pursuing a career as a front-end software developer.",
+        "I'm a driven high school student, passionate about creating engaging digital experiences — from sleek websites to interactive apps. Always learning. Always building.",
       icon: aboutmeicon,
     },
     {
-      title: "Hobbies",
+      title: "Beyond Code",
       description:
-        "Besides coding, I enjoy watching cricket and bringing my 3D Imagination to reality using Unreal Engine.",
+        "Off screen, I unwind with cricket and bring 3D worlds to life in Unreal Engine. I thrive on creativity—designing, building, and exploring new tech passions.",
       icon: hobbiesicon,
     },
     {
-      title: "300 Followers on X (Twitter)",
+      title: "Social Milestone",
       description:
-      "It's a significant milestone for me, and I'm grateful for everyone who has supported and followed along.",
+      "Recently reached 400 followers on X (Twitter) — thanks to everyone joining my journey in tech and learning together!",
       icon: medalicon,
     },
     {
-      title: "Blogs",
+      title: "Blogging & Sharing",
       description:
-      "I frequently write blogs on dev.to and hashnode, sharing my thoughts and experiences with my readers. I recently crossed 1000 followers on Dev! Visit my Blogging page: https://zemerik.hashnode.dev/",
+      "I write regularly on dev.to and hashnode, sharing lessons and stories along my coding journey. Over 1000 readers now! Check out my blog: https://zemerik.hashnode.dev/",
       icon : blogsicon,
-    }, 
-    {
-      title: "Youtube Videos",
-      description:
-      "I publically document my coding journey and my milestones / achievement on my youtube channel. View my youtube here - https://www.youtube.com/channel/UCLJY3Fa0xheb_SNSuPkbdZw",
-      icon: youtubeicon,
     }
   ],
 };

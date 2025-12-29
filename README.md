@@ -1,7 +1,5 @@
 <p align = "center">
-
-<img src = "public/assets/icon.png" style = "height:250px;width:250px">
-
+  <img src = "public/icon.png" style = "height:250px;width:250px">
 </p>
 
 <h1 align = "center">
@@ -14,7 +12,7 @@
 
 ![Tools](https://skillicons.dev/icons?i=javascript,css,html,react,nodejs,tailwind,vscode,vercel,github&perline=25)
 
-![Screenshot](public/github/screenshot_laptop.png)
+![Screenshot](public/screenshot_laptop.png)
 
 </div>
 
@@ -23,48 +21,36 @@
 ## ABOUT:
 
 
-Here is the latest version of my portfolio, crafted using HTML, CSS, JavaScript, TypeScript, React, and Tailwind. This update highlights my proficiency with modern web technologies, featuring a sleek and responsive design. The integration of React and Tailwind enhances the user experience with seamless interactivity and aesthetics. Vercel has been used for Deploying this Project. 
+Welcome to Portfolio V2 — a showcase of my web development journey and modern frontend skills. Built with React, TypeScript, and Tailwind CSS, the site features advanced animations, multilingual support, and beautiful responsiveness for any device.
 
-View my Website here - https://zemerik.vercel.app
+See the live site: [https://zemerik.vercel.app](https://zemerik.vercel.app)
 
 ## FEATURES:
 
-<table align = "center">
-  <tr>
-    <td>
-      🎩 Responsive Navbar with Icons and hover effects
-      <br>
-      <br>
-      🤯 Option to Switch between German and English Language
-      <br>
-      <br>
-      ⚡ Tailwind Effects for Quotes and other text / animations
-      <br>
-      <br>
-      🏆 Dragable and Self - Updating Project Cards
-      <br>
-      <br>
-      📝 Code Snippets Outlining Achievements and Milestones
-      <br>
-      <br>
-      ✈️ Mailing / Messaging Option
-    </td>
-    <td>
+- **Beautiful, Modern UI:** Clean design with glassmorphism, elegant gradients, soft shadows, and seamless responsiveness for all devices.
+- **Animated About Me Section:** Includes an interactive coding laptop illustration, highlighting your personality and interests with micro-animations and rewritten engaging content.
+- **Multi-Language Support:** Instantly switch between German and English with a simple toggle.
+- **Live Projects Carousel:** Drag-and-scroll project showcase cards, updating automatically to reflect your latest work.
+- **Achievements as Code Snippets:** Your technical milestones and skill highlights are presented as styled and interactive code cards.
+- **Framer Motion Animations:** Subtle section transitions, hover effects, and attention-grabbing highlights for a dynamic user experience.
+- **Tailwind CSS Styling:** Fast, easy theming and customization supporting dark/light/modern color schemes.
+- **Quotes Slider:** Inspirational and tech-related quotes slider powered by Swiper.js.
+- **One-click Contact:** Direct email/messaging option for easy communication.
+- **Mobile-First:** Optimized layouts and performance for mobile users and touch interactivity.
 
-  <img src = "public/github/screenshot_phone.png" style = "height: 400px; width: 250px">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="public/screenshot_phone.png" style="height: 400px; width: 250px">
+</p>
 
 ## USAGE:
 
-- Make a local copy of this Repository on your Machine through the following Git Command:
+- **Clone this repository:**
 
 ```
 git clone https://github.com/Zemerik/Portfolio-v2
 ```
 
-- Navigate to the Project Directory by the command below:
+- **Navigate to the project directory:**
 
 ```
 cd Portfolio-v2
@@ -73,21 +59,23 @@ cd Portfolio-v2
 > [!Important]
 > You need to have [nodeJS](https://nodejs.org/en) installed
 
-- Start the Development Server by the following commmand:
+- **Start the development server:**
 
 ```nodejs
 npm run dev
 ```
 
-> [!Tip]
-> All of your changes can be made in the `data.tsx` file located in `src/assets/lib/` directory, while the favicon can be altered in the `index.html` file. 
+> **Tip:**
+> Most site content is managed from the `data.tsx` file in `src/assets/lib/`. Customize site icons in `index.html`.
+
 
 > [!Caution]
 > Distribution or Use of any Personal Information is not allowed in any form. 
 
 ## CONTRIBUTING:
 
-Contributions are always welcome and appreciated. Feel free to create an Issue or Pull - Request for any fixes, bug reports, feature request or more. 
+Contributions and feedback are welcome! Feel free to open issues or pull requests for features, improvements, or bug fixes.
+
 
 <h1 align = "center">
   Thanks for Visiting🙏
