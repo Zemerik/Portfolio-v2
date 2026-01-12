@@ -13,7 +13,7 @@
     "@emailjs/browser": "^3.11.0",
     "@motionone/utils": "^10.16.3",
     "@types/dotenv": "^8.2.0",
-    "axios": "^1.8.2",
+    "axios": "^1.12.0",
     "dotenv": "^16.3.1",
     "finaleseite2": "file:",
     "framer-motion": "^10.16.4",
@@ -23,7 +23,7 @@
     "react-dom": "^18.2.0",
     "react-icons": "^4.11.0",
     "react-intersection-observer": "^9.5.2",
-    "react-router-dom": "^7.5.2",
+    "react-router-dom": "^7.12.0",
     "react-toastify": "^9.1.3",
     "react-tooltip": "^5.21.1",
     "reactjs-popup": "^2.0.6",
@@ -44,6 +44,6 @@
     "rollup-plugin-gzip": "^3.1.0",
     "tailwindcss": "^3.3.3",
     "typescript": "^5.0.2",
-    "vite": "^6.3.4"
+    "vite": "^6.4.1"
   }
 }
